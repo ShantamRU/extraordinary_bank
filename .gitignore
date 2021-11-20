@@ -1,0 +1,4 @@
+celerybeat-schedule
+.pytest_cache/
+Pipfile.lock
+.idea/
